@@ -1,0 +1,13 @@
+{
+    "name": "advent",
+    "type": "module",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@types/node": "^20.10.2"
+    },
+    "dependencies": {
+        "escape-string-regexp": "^5.0.0",
+        "radash": "^11.0.0",
+        "ts-node": "^10.9.1"
+    }
+}
